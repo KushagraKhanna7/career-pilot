@@ -1,0 +1,34 @@
+[
+  {
+    "id": "software-dev",
+    "name": "Software Developer",
+    "category": "tech",
+    "description": "Builds apps, websites and software systems.",
+    "skills": ["Programming", "Problem solving", "Git"],
+    "qualification": "B.Tech / BCA / B.Sc CS",
+    "salary": "₹4-25 LPA",
+    "roadmap": [
+      "Learn a language: Python or Java",
+      "Learn data structures and algorithms",
+      "Build 3 real projects",
+      "Do an internship",
+      "Apply for jobs"
+    ]
+  },
+  {
+    "id": "ui-ux",
+    "name": "UI/UX Designer",
+    "category": "creative",
+    "description": "Designs how apps and websites look and feel.",
+    "skills": ["Figma", "Design thinking", "User research"],
+    "qualification": "Any degree + design portfolio",
+    "salary": "₹3-20 LPA",
+    "roadmap": [
+      "Learn design basics",
+      "Learn Figma",
+      "Redesign 3 existing apps",
+      "Build a portfolio",
+      "Apply for internships"
+    ]
+  }
+]
